@@ -1,7 +1,7 @@
 # portfolio-
 Wangu Thupa web Dev Portfolio 
 
-# Header 1
+# Header 1 Hi I am Wangu 
 ## Header 2
 ### Header 3
 
